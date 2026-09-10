@@ -315,18 +315,6 @@ Display Results on Dashboard
 
 ---
 
-# 👨‍💻 Author
-
-**Aditya Mishra**
-
-B.Tech Computer Science Engineering (Cyber Security)
-
-GitHub: https://github.com/iadityamishra159
-
-LinkedIn: www.linkedin.com/in/iadityamishra159
-
----
-
 # ⭐ If you found this project useful
 
 Please consider giving this repository a ⭐ on GitHub.
